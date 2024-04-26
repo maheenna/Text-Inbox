@@ -3,11 +3,13 @@ import React from 'react'
 import { BiCycling, BiShoppingBag } from 'react-icons/bi'
 import { HiBars3BottomRight } from 'react-icons/hi2'
 import Image from 'next/image'
-import logo from "../../../../public/images/Group 18894logo.png"
+import logo from "../../../../public/images/logo.png"
 import { RiMenu5Line } from 'react-icons/ri'
 import navlinks  from "../../../app/data.json"
 import heading  from "../../../app/data.json"
 import navbutton  from "../../../app/data.json"
+import country from "../../../../public/images/country.png"
+import downarrow from "../../../../public/images/downarrow.png"
 
 interface Props {
     openNav: () => void
@@ -20,7 +22,7 @@ const Nav = ({ openNav }: Props) => {
 
                 {/* logo design */}
                 <div className='flex items-center md:ml-24 ml-5  md:space-x-4 space-x-2'>
-                        <Image src={"/images/logo.png"} alt='logo' width={100} height={100} className='md:w-[40px] md:h-[40px] w-[30px] h-[30px]'/>
+                        <Image src={logo} alt='logo' width={100} height={100} className='md:w-[40px] md:h-[40px] w-[30px] h-[30px]'/>
                     <h1 className='text-[20px] sm:text-[30px] font-bold text-[#004D4A] block '>
                         {
                             heading.heading.name
@@ -49,8 +51,8 @@ const Nav = ({ openNav }: Props) => {
                     
                 </div>
                     <div className='flex items-center gap-2'>
-                        <Image src={"/images/country.png"} alt='country' height={500} width={500} className='w-[25px]'/>
-                        <Image src={"/images/downarrow.png"} alt='country' height={500} width={500} className='w-[10px] h-[8px]'/>
+                        <Image src={country} alt='country' height={500} width={500} className='w-[25px]'/>
+                        <Image src={downarrow} alt='country' height={500} width={500} className='w-[10px] h-[8px]'/>
                     </div>
 
                 <div className='flex items-center space-x-4'>

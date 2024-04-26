@@ -2,6 +2,8 @@
 import React, { useState } from 'react'
 import Image from 'next/image';
 import heroheading from "../../../app/data.json"
+import hero from "../../../../public/images/hero.png"
+import heroimagebutton from "../../../../public/images/heroimagebutton.png"
 
 
 
@@ -21,8 +23,8 @@ const Hero = () => {
                     </button>
     </div>
     <div className='relative'>
-      <Image src={"/images/hero.png"} alt='hero' width={500} height={500} className='mx-auto ' />
-      <Image src={"/images/heroimagebutton.png"} alt='hero' width={500} height={500} className='w-[50px] absolute top-1/2 md:left-[47.5%] left-[43.5%]' />
+      <Image src={hero} alt='hero' width={500} height={500} className='mx-auto ' />
+      <Image src={heroimagebutton} alt='hero' width={500} height={500} className='w-[50px] absolute top-1/2 md:left-[47.5%] left-[43.5%]' />
     </div>
 
 
