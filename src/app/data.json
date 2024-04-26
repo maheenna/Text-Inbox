@@ -1,0 +1,79 @@
+{
+    "heading": {
+        "name": "Text Inbox"
+    },
+    "navLinks": [
+        {
+            "firstlink": "Home",
+            "href": "/"
+        },
+        {
+            "firstlink": "Pricing",
+            "href": "/"
+        },
+        {
+            "firstlink": "Contact",
+            "href": "/"
+        }
+    ],
+    "navbutton": {
+        "button": "Try It Now"
+    },
+    "hero": {
+        "heroheading1": "Craft Personalized",
+        "heroheading2": "Emails That Reflect Your Unique Style",
+        "herodescription": "TextInbox, your personalized AI email assistant, to ensure seamless email communication!",
+        "herobutton": "Get Start For Free"
+    },
+    "section2": {
+        "topheading": "HOW IT WORKS",
+        "mainheading": "How To Write An Email In Three Easy Steps",
+        "firstcardheading": "Speed",
+        "firstcarddescription": "Generate Emails Quickly With Just One/Two Hints.",
+        "secondcardheading": "Adaptation",
+        "secondcarddescription": "Our Solution earns Your Writing Style, And Generate Same Style Emails.",
+        "thirdcardheading": "Privacy",
+        "thirdcarddescription": "Users’ Privacy Is Our First Priority, Our Solution o Not Use Or Store User Data, We Only Use Last Email To Generate A Reply.",
+        "section2button":"Get Start For Free"
+    },
+    "section3":{
+        "mainheading":"Write Unique And Professional Email In Minutes",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "button":"Install For Free"
+    },
+    "section4":{
+        "mainheading":"Email Chrome Will Craft Your Email Response",
+        "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "firstcardfirstline":"Dear Meziane, ",
+        "firstcardfirstpara":"I'm writing to express",
+        "firstCardFirstParaTextHighlighted":"my interest in the UI",
+        "firstCardFirstParaTextRemaining":"designer role at Tech Sol. I have a Btech in Computer Science and I would love to work with you.",
+        "firstCardSecondPara":"I can't tell you how much I ",
+        "firstCardSecondParaTextHighlighted1":"appreciate your time ",
+        "firstCardSecondParaTextRemaining1":"and consideration, but I do want to provide a quick overview of my skills: ",
+        "firstCardSecondParaTextHighlighted2":"I am an expert in web design ",
+        "firstCardSecondParaTextRemaining2":"and I have experience working on projects that involve user-centered design, user experience, information architecture, and visual design.",
+        "firstCardThirdParaHighlighted":"Thank you again for your consideration!",
+        "firstCardThirdPara":"Please let me know if there's anything else I can help you with asap.",
+        "secondCardFirstLine":" Dear Jason, ",
+        "secondCardFirstPara":"Thank you for your interest in the ",
+        "secondCardFirstParaHighlighted1":"UI Designer position",
+        "secondCardFirstParaRemaining1":" at Tech Sol and for sharing your qualifications with us. Your ",
+        "secondCardFristParaHighlight2":" background in web design ",
+        "secondCardFirstParaRemaining2":"and user-centered approaches is impressive and aligns well with our needs.",
+        "secondCardSecondPara":"We would like to discuss your application in more detail. Could you please send over your portfolio and ",
+        "secondCardSecondParaHighlight":"a few available times for a preliminary video",
+        "secondCardSecondParaRemaining":"call next week?",
+        "secondCardThirdPara":"Looking forward to your response.",
+        "secondCardFourParaLine1":"Best regards, ",
+        "secondCardFourParaLine2":"Meziane Tech Sol HR Team"
+
+    },
+    "section5":{
+        "heading1":"Trusted By 15000+",
+        "heading2":"Users And Organization",
+        "para":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "card1text":"“Everything is perfect, we are very satisfied. It’s very practical and the customer service is great. We are happy to work with you”",
+        "card2text":"“Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's”"
+    }
+}
